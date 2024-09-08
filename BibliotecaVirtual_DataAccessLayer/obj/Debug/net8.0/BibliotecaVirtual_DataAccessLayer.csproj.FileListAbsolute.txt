@@ -1,0 +1,14 @@
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\bin\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.deps.json
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\bin\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.runtimeconfig.json
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\bin\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.dll
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\bin\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.pdb
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.AssemblyInfoInputs.cache
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.AssemblyInfo.cs
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.dll
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\refint\BibliotecaVirtual_DataAccessLayer.dll
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.pdb
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\BibliotecaVirtual_DataAccessLayer.genruntimeconfig.cache
+C:\Users\Martin\source\repos\WebsAPI\BibliotecaVirtual_DataAccessLayer\obj\Debug\net8.0\ref\BibliotecaVirtual_DataAccessLayer.dll
